@@ -1,0 +1,7 @@
+dataset/
+__pycache__/
+*.pyc
+.DS_Store
+
+# If you ever host large models externally:
+# model/*.h5
